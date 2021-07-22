@@ -55,10 +55,7 @@ html, body{
     pointer-events: none;
 }
 
-/*Hide Help*/
-a[href^="https://support.discord.com"]{
-    display: none;
-}
+
 /*Server Header*/
 .platform-win .sidebar-2K8pFh {
     border-radius: 0 0 0;
